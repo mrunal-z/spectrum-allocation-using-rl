@@ -153,7 +153,6 @@ def simulate_network(G, requests, edges_stats):
             es.remove_requests()
 
     average_utilization = sum(total_utilizations) / len(total_utilizations)
-    print("finished ", i)
     return average_utilization
 
 def route(g: nx.Graph, estats: list[EdgeStats], req:Request) -> tuple[list[EdgeStats], bool]:
