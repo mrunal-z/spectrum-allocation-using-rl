@@ -6,6 +6,10 @@ This repository contains all the necessary code and data for our CS258 final pro
 
 The final comprehensive report detailing all the conducted experiments can be found within the 'paper' folder.
 
+### Environment files
+
+The custom gymnasium environments created for Case 1 and Case 2 are stored in the 'environment_files' directory.
+
 ### Code files
 
 1. PPO:
