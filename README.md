@@ -4,7 +4,7 @@ This repository contains all the necessary code and data for our CS258 final pro
 
 ### Report
 
-The final comprehensive report detailing all the conducted experiments can be found within the 'paper' folder.
+The overleaf project files of the final report can be found within the 'paper' folder.
 
 ### Environment files
 
